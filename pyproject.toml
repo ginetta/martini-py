@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.12"
-langchain = "^0.0.236"
+langchain = "^0.0.317"
 tiktoken = "^0.4.0"
 pinecone-client = "^2.2.2"
 openai = "^0.27.8"
